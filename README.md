@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 Linguagens Usadas  
+![JavaScript](https://cdn.jsdelivr.net/npm/emoji-flag@1.0.2/icons/javascript.png)  
+![Python](https://cdn.jsdelivr.net/npm/emoji-flag@1.0.2/icons/python.png)  
+![Java](https://cdn.jsdelivr.net/npm/emoji-flag@1.0.2/icons/java.png)  
+![React](https://cdn.jsdelivr.net/npm/emoji-flag@1.0.2/icons/react.png)  
+![Node.js](https://cdn.jsdelivr.net/npm/emoji-flag@1.0.2/icons/nodejs.png)
